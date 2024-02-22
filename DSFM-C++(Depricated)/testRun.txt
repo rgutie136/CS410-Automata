@@ -1,0 +1,11 @@
+a, b
+3
+0,1
+(0,a,1)(0,b,0)
+(1,a,2)(1,b,0)
+(2,a,2)(2,b,2)
+
+
+======READ ME=======
+To replace inputs, replace text above 
+with given txt samples 

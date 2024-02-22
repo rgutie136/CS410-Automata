@@ -1,0 +1,13 @@
+V: S, A, B, C, D, E, F, a, b
+T: a, b
+S: S
+P:
+S:: aA
+A:: aB
+A:: bC
+B:: aB
+B:: bD
+C:: a
+C:: b
+E:: aC
+F:: abE
